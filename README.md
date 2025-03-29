@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" alt="AlpineVulnScanner" width="auto" height="200"/>
+  <img src="logo.png" alt="AlpineVulnScanner" width="auto" height="auto"/>
 </p>
 
 AlpineVulnScanner is a Python-based tool designed to analyze Linux Alpine `.apk` packages for known vulnerabilities using the NVD (National Vulnerability Database) API.
@@ -44,7 +44,7 @@ python main.py ./ghostscript-10.04.0-r0.apk 273cf361-9b05-49fa-45a45-5d9ab63cec0
 
 The report will be saved as an HTML file in the same directory.
 - **Example of the output :**
- <img src="exampleOutput.png" alt="AlpineVulnScanner" width="auto" height="500"/>
+ <img src="exampleOutput.png" alt="AlpineVulnScanner" width="auto" height="auto"/>
 
 ---
 
