@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" alt="QuickResponseC2" width="auto" height="200"/>
+  <img src="logo.png" alt="AlpineVulnScanner" width="auto" height="200"/>
 </p>
 
 AlpineVulnScanner is a Python-based tool designed to analyze Linux Alpine `.apk` packages for known vulnerabilities using the NVD (National Vulnerability Database) API.
