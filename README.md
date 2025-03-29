@@ -44,7 +44,7 @@ python main.py ./ghostscript-10.04.0-r0.apk 273cf361-9b05-49fa-45a45-5d9ab63cec0
 
 The report will be saved as an HTML file in the same directory.
 - **Example of the output :**
- <img src="logo.png" alt="AlpineVulnScanner" width="auto" height="500"/>
+ <img src="exampleOutput.png" alt="AlpineVulnScanner" width="auto" height="500"/>
 
 ---
 
