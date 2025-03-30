@@ -6,14 +6,17 @@
             body {
                 display: flex;
                 justify-content: center;
-                align-items: center;
-                height: 100vh;
+                align-items: flex-start; /* Align content to the top */
+                min-height: 100vh;
                 background-color: #1a1a1a;
                 color: #ffffff;
+                padding-top: 20px;
+                overflow-y: auto; /* Enable scrolling */
             }
             .container {
                 text-align: center;
-                width: 80%;
+                width: 90%;
+                max-width: 1200px;
                 background: #2a2a2a;
                 padding: 20px;
                 border-radius: 10px;
